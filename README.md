@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gururaj SK</h1>
-<h3 align="center">A passionate Computer Science Engineering Student</h3>
+<h3 align="center">A passionate Computer Science Engineering Student from RNS Institute of Technology</h3>
 
 - 🔭 I’m currently working on **Real-Time Chat App**
 
