@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gururaj SK</h1>
 <h3 align="center">A passionate Computer Science Engineering Student from RNS Institute of Technology</h3>
 
-- 🔭 I’m currently working on **Real-Time Chat App**
-
-- 🌱 I’m currently learning **React.js,Firebase**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **1rn23cd034.gururajsk1@gmail.com**
 
