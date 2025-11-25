@@ -8,7 +8,7 @@ Currently based in Bengaluru, I am dedicated to honing my skills in software dev
 
 ## Skills & Technologies
 
-cpp,js,c,html,css,tailwind,react
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,c,react,html,css,tailwind&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
