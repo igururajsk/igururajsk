@@ -7,7 +7,7 @@ I'm Gururaj SK, a passionate Computer Science Engineering student focused on pro
 Currently based in Bengaluru, I am dedicated to honing my skills in software development and problem-solving. I am actively engaged in various projects, primarily utilizing C++ and JavaScript.
 
 ## How to reach me 
-Let's Connect via 1rn23cd034.gururajsk1gmail.com
+Contact me through **1rn23cd034.gururajsk1@gmail.com**
 
 ## Skills & Technologies
 
