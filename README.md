@@ -11,7 +11,7 @@ Contact me through **1rn23cd034.gururajsk1@gmail.com**
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,c,react,html,css,tailwind,git,github&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,c,react,html,css,tailwind,git,github,vscode,powerbi,tableau&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
